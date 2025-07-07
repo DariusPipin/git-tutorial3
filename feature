@@ -1,2 +1,2 @@
 Commit 2
-Konfliktas 2
+Conflict 1
